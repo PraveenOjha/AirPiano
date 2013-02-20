@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirPiano", "AirPiano\AirPiano\AirPiano.csproj", "{1DB39282-2EE5-4FE3-B40B-8A0A564E663D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AirPianoContent", "AirPiano\AirPianoContent\AirPianoContent.contentproj", "{0E8A00F0-92D7-476A-AD0A-85C5200BADD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB39282-2EE5-4FE3-B40B-8A0A564E663D}.Debug|x86.ActiveCfg = Debug|x86
+		{1DB39282-2EE5-4FE3-B40B-8A0A564E663D}.Debug|x86.Build.0 = Debug|x86
+		{1DB39282-2EE5-4FE3-B40B-8A0A564E663D}.Release|x86.ActiveCfg = Release|x86
+		{1DB39282-2EE5-4FE3-B40B-8A0A564E663D}.Release|x86.Build.0 = Release|x86
+		{0E8A00F0-92D7-476A-AD0A-85C5200BADD5}.Debug|x86.ActiveCfg = Debug|x86
+		{0E8A00F0-92D7-476A-AD0A-85C5200BADD5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
